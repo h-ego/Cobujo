@@ -234,6 +234,8 @@ button:active::before {
   bottom: 7px;
   opacity: 0.3;
   font-family: monospace;
+  font-size: 1.9em;
+  font-weight: 300;
 }
 	button:hover::before {
 		transform: scale(1, 1);
